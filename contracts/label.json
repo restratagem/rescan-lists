@@ -1,0 +1,15 @@
+{
+  "0xEXAMPLE": {
+    "name": "RescanToken",
+    "links": {
+      "web": "https://",
+      "twitter": "https://twitter.com/",
+      "discord": "https://discord.gg/",
+      "telegram": "https://t.me/",
+      "github": "https://github.com/",
+      "email": "email@email.com"
+      },
+    "tags": ["Stablecoin", "ERC20"],
+    "verified": 0,
+    "warning": ""
+  }

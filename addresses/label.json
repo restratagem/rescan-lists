@@ -1,0 +1,11 @@
+{
+  "0xEXAMPLE": {
+    "name": "JohnDoe",
+    "links": {
+      "web": "https://",
+      "email": "email@email.com"
+      },
+    "tags": ["FirstWhale"],
+    "verified": 0,
+    "warning": ""
+  }
